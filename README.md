@@ -1,5 +1,7 @@
 # TinDog Project
 
+This is a sample project I worked on during a bootcamp course from the App Brewery which I am usuing to test deployment of a website using Github.
+
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
